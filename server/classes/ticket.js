@@ -1,7 +1,7 @@
 class Ticket {
-    constructor(turnNumber, desk) {
+    constructor(turnNumber, desktop) {
         this.turnNumber = turnNumber;
-        this.desk = desk;
+        this.desktop = desktop;
     }
 }
 
